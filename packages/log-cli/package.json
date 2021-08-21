@@ -1,6 +1,6 @@
 {
   "name": "log-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "myMediaBrains <my.media.brains@gmail.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "commander": "^8.1.0",
-    "log-core": "^1.0.0"
+    "log-core": "^1.0.1"
   }
 }
