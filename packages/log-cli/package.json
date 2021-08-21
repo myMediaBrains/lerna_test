@@ -1,5 +1,5 @@
 {
-  "name": "log-cli",
+  "name": "mckriskr-log-cli",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "myMediaBrains <my.media.brains@gmail.com>",
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "commander": "^8.1.0",
-    "log-core": "^1.0.1"
+    "mckriskr-log-core": "^1.0.1"
   },
   "gitHead": "97beb52d3640e87f66d9b15ef2819737f6bca7a6"
 }
