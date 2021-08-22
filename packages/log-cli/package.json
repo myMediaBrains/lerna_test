@@ -1,5 +1,5 @@
 {
-  "name": "mckriskr-log-cli",
+  "name": "log-cli",
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "myMediaBrains <my.media.brains@gmail.com>",
@@ -18,6 +18,10 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/@mymediabrains"
+  },
+  "repository": "https://github.com/mymediabrains/lerna_test.git",
   "dependencies": {
     "commander": "^8.1.0",
     "mckriskr-log-core": "^1.0.2"
