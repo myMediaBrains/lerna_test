@@ -1,6 +1,6 @@
 {
   "name": "log-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "myMediaBrains <my.media.brains@gmail.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
   "repository": "https://github.com/mymediabrains/lerna_test.git",
   "dependencies": {
     "commander": "^8.1.0",
-    "log-core": "^1.0.2"
+    "log-core": "^1.0.4"
   },
   "gitHead": "0c961ae6b8edea06206110d86a689d5a4dc6777c"
 }
